@@ -922,3 +922,6 @@ img{
     color: #fff;
     border: 1px solid #f77035;
 }
+.owl-carousel .owl-item .owl-lazy.loaded{
+    opacity: 1;
+}
