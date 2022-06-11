@@ -1,0 +1,50 @@
+@media (max-width: 1197px){
+    .slider-content h2 {
+        font-size: 35px;
+        line-height: 45px;
+        }
+    .logo{
+        margin-left: 10em;
+    }
+}
+@media (max-width: 1165px){
+    .services-colum:last-of-type{
+        margin-top: 3%;
+        margin-left: auto;
+    }
+    .pricing-column:last-of-type{
+        margin-top: 3%;
+        margin-left: auto;
+    }
+    .features-column:last-of-type{
+        margin-top: 3%;
+        margin-left: auto;
+    }
+}
+@media (max-width: 991px){
+    .banner-right{
+        display: none;
+    }
+    .padding-column h3{
+        font-size: 18px;
+    }
+}
+@media (max-width: 991px){
+    .slider-content{
+        text-align: center;
+    }
+    .slider-content h2{
+        margin-top: auto;
+        margin-left: auto;
+    }
+    .slider-content p {
+        display: inline-block;
+		color: #fff;
+		max-width: 450px;
+		margin: 0 auto;
+		margin-bottom: 30px;
+	}
+    .banner-image{
+        height: 600px;
+    }
+}
